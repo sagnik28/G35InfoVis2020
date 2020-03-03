@@ -29,6 +29,10 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ``` -->
 
+## Built with
+- Python - for data exploration and wragling
+- ... 
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
