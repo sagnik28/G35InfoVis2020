@@ -40,3 +40,9 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Meeting
+February 27th Meet TA and decide the basic frame & technologies
+March 5th Meet TA and discuss the details of the project(First presentation)
+Ensuring the function, methods to realize and the difficulites facing with
+
