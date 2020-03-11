@@ -67,12 +67,22 @@ Objectives for next meeting: List a to do list of specific features
 
 E. 27 Feburary 2020
 Meeting location: H0.08, UvA, Science Park
-Objectivs: Decide a list of things to do
-Actions: 1. Draw a basic frame of the project
-2. Decide which technologies to use
+Objectivs: Develop a rough sketch to demonstrate the essential functionalities of the proposed model.
+Actions: 1. A rough sketch showing a chord diagram which demonstrates a emotional correlation between certain subjects and emotions was presented and agreed upon by the TA.
+2. TA further recommended certain features; display of percentage of posts and color schema, to increase visual appeal
+Objectives for next meeting: 1. Develop a basic prototype
+2. Make a progress report presentation about developments so far and future developed to be made
 
 F. 5 March 2020
 Meeting location: H0.08, UvA, Science Park
-Meet TA and discuss the details of the project(First presentation)
-Ensuring the function, methods to realize and the difficulites facing with
+Objectivs: Display a basic framework and held the first presentation
+Actions: 1. Hold the first presentation
+2. Discuss with TA about difficulities and challenges
+Objectives for next meeting: 1. Complete data processing
+2. Discuss about the visualization
 
+F. 12 March 2020
+Meeting location: H0.08, UvA, Science Park
+Objectivs: 
+Actions: 1. 
+Objectives for next meeting: 1. 
