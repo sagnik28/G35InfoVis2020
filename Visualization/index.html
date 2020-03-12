@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<title>Visualization of An Emotional Analysis on Reddit Posts</title>
+
+	<!-- D3.js -->	
+    <script src="https://d3js.org/d3.v3.js"></script>
+	<script src="d3.stretched.chord.js"></script>
+	<script src="d3.layout.chord.sort.js"></script>
+	
+	<!-- jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	
+	<!-- Open Sans & CSS -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:700,400,300" rel='stylesheet' type='text/css'>
+	  <style>
+		body {
+		  font-family: 'Open Sans', sans-serif;
+		  font-size: 12px;
+		  font-weight: 400;
+		  color: #525252;
+		  text-align: center;
+		}	
+		
+		line {
+		  stroke: #000;
+		  stroke-width: 1.px;
+		}
+
+		text {
+		  font-size: 8px;
+		}
+
+		path.chord {
+		  fill-opacity: .80;
+		}
+		
+		.title {
+			text-anchor: middle;
+			fill: #3B3B3B;
+			font-weight: 300;
+			font-size: 16px;
+		}
+		.titleLine {
+			stroke: #DCDCDC;
+			shape-rendering: crispEdges;
+		}
+		
+		.title-h3 {
+		    margin-top: 20px;
+		    margin-bottom: 10px;
+		    font-size: 24px;
+		    font-weight: 500;
+			line-height: 1.1;
+			color: #3B3B3B;
+		}
+		
+		@media (min-width: 500px) {
+		  .explanation {
+			width: 50%; 
+			margin: 0 auto;
+		  }
+		}
+	  </style>
+  </head>
+  <body>
+ 
+	<div class="title-h3">How Do We Feel About Certain Things in Life?</div>
+
+    <div id="chart"></div>
+	
+	<div style="width: 100%;">
+		<div class="explanation">
+		The chord diagram is a sumarry of how posts on reddit indicate feelings(positive or negative) about certain subjects. The feelings(emotions) are to the left of the diagram and the subjects are to the right of the diagram.
+		</div>
+	</div>
+	
+    <script src="script.js"></script>
+	
+  </body>
+</html>
