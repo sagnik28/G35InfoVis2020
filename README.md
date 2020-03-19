@@ -31,7 +31,7 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 
 ## Built with
 - Python - for data exploration and wrangling
-- ...
+- HTML & JavaScript - for data visualization
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -41,7 +41,7 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Meeting
+## TA Meeting
 A. 7 February 2020
 Meeting location: H0.08, UvA, Science Park 
 Objectives: Formation of a five-member team
