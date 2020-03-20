@@ -83,6 +83,9 @@ Objectives for next meeting: 1. Complete data processing
 
 F. 12 March 2020
 Meeting location: H0.08, UvA, Science Park
-Objectivs: 
-Actions: 1. 
-Objectives for next meeting: 1. 
+Objectivs: Display the progress and discuss with further possibilities
+Actions: 1.  Shows the progress of the project
+2. Discuss with TA and try to find new ideas for improvement
+Objectives for next meeting: 1. If need, will hled on next Monday or Tuesday
+
+The meeting after March 12 was canceled due to the virus.
